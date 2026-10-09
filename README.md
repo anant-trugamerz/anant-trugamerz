@@ -1,6 +1,7 @@
-# Anant
+# Anant Singhal
+### Student | Python Developer | Problem Solver
 
-Student interested in software development, problem-solving, and building things that go beyond simple scripts.
+High school student interested in software development, problem-solving, and building things that go beyond simple scripts.
 
 *More interested in understanding how things work than just making them work.*
 
